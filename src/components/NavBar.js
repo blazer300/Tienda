@@ -52,12 +52,6 @@ const NavBar = () => {
               >
                 Bazar Nerd
               </Nav.Link>
-              <Nav.Link
-                href="https://github.com/jmr85/tienda-ruiz"
-                target="_blank"
-              >
-                <i className="fab fa-github"></i>
-              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

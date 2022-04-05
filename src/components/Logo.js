@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Logo = () => {
     return (
         <div > 
-            <img src="/logo.png" alt="Dev Bookstore" ></img> 
+            <img src="" alt="Joyeria Avant" ></img> 
         </div>
     )
 }

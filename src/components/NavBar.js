@@ -20,23 +20,23 @@ const NavBar = () => {
               <Nav.Link
                 as={NavLink}
                 activeClassName="active"
-                to="/category/libros"
+                to="/category/anillos"
               >
-                Libros
+                Anillos
               </Nav.Link>
               <Nav.Link
                 as={NavLink}
                 activeClassName="active"
-                to="/category/notebooks"
+                to="/category/collares"
               >
-                Notebooks
+                Collares
               </Nav.Link>
               <Nav.Link
                 as={NavLink}
                 activeClassName="active"
-                to="/category/sillas-oficina"
+                to="/category/relojes"
               >
-                Sillas de oficina
+                Relojes
               </Nav.Link>
               <Nav.Link
                 as={NavLink}
@@ -44,13 +44,6 @@ const NavBar = () => {
                 to="/category/accesorios"
               >
                 Accesorios
-              </Nav.Link>
-              <Nav.Link
-                as={NavLink}
-                activeClassName="active"
-                to="/category/bazar-nerd"
-              >
-                Bazar Nerd
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>

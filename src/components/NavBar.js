@@ -38,13 +38,6 @@ const NavBar = () => {
               >
                 Relojes
               </Nav.Link>
-              <Nav.Link
-                as={NavLink}
-                activeClassName="active"
-                to="/category/accesorios"
-              >
-                Accesorios
-              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
